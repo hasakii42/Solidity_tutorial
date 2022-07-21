@@ -1,4 +1,4 @@
-#Go to contracts folder for all the codes , example and contracts
+//Go to contracts folder for all the codes , example and contracts
 
 REMIX DEFAULT WORKSPACE
 
