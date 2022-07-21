@@ -1,3 +1,5 @@
+#Go to contracts folder for all the codes , example and contracts
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
